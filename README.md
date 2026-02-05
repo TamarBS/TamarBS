@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="left">¡Hola! I'm Tamar 👋🏻</h1>
 
-<!--
-**TamarBS/TamarBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Frontend developer and UI designer based in Madrid, Spain 🇪🇸📍</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/userupload/14499180/file/original-1cb922e095def46fa3c2a6d7054a166a.png?resize=1024x341&vertical=center"  />
+</div>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ +3 years as web developer<br>🎨 7 years as designer<br>🖼️ Bachelor degree in fine arts<br><br>I'm passionate about arts and technology. Pursuing my carrer to become Frontend Developer.<br><br>📚 Currently learning Astro</p>
+
+###
+
+<h2 align="left">Main stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/TamarBS/TamarBS/output/snake.svg" alt="Snake animation" />
+
+###
